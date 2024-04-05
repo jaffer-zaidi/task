@@ -1,4 +1,5 @@
-# task
+hi
+# task 
 name: CI
 
 on:
